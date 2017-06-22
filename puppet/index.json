@@ -6,7 +6,8 @@
   "details": {
     "steps": [{
       "title": "Step 1 - Test puppet version",
-      "text": "step1.md"
+      "text": "step1.md",
+      "code":"launch.sh"
     }],
     "intro": {
       "text": "intro.md",
