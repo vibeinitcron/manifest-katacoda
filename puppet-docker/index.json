@@ -1,0 +1,27 @@
+{
+  "title": "Learn Puppet",
+  "description": "Get started with Puppet",
+  "difficulty": "beginner",
+  "time": "2 minutes",
+  "details": {
+    "steps": [{
+      "title": "Step 1 - Test puppet version",
+      "text": "step1.md",
+      "code": "launch.sh"
+    }],
+    "intro": {
+      "text": "intro.md",
+      "credits": ""
+    },
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "environment": {
+    "uilayout": "editor-terminal",
+    "uimessage1": "\u001b[32mYour Interactive Bash Terminal."
+  },
+  "backend": {
+    "imageid": "ubuntu"
+  }
+}
