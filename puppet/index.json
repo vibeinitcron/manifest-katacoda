@@ -6,12 +6,11 @@
   "details": {
     "steps": [{
       "title": "Step 1 - Test puppet version",
-      "text": "step1.md",
-      "code":"launch.sh"
+      "text": "step1.md"
     }],
     "intro": {
       "text": "intro.md",
-      "credits": ""
+      "courseData": "lauch.sh"
     },
     "finish": {
       "text": "finish.md"
