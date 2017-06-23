@@ -17,7 +17,7 @@
       "client": [
         {
           "file": "test.txt",
-          "target": "/root"
+          "target": "/home/scrapbook/tutorial"
         }
       ]
     },
