@@ -17,7 +17,7 @@
       "client": [
         {
           "file": "*",
-          "target": "/home/scrapbook/tutorial/code"
+          "target": "/home/scrapbook/tutorial/"
         }
       ]
     },
