@@ -13,6 +13,14 @@
       "text": "intro.md",
       "credits": ""
     },
+    "assets": {
+      "host01": [
+        {
+          "file": "test.txt",
+          "target": "-/"
+        }
+      ]
+    },
     "finish": {
       "text": "finish.md"
     }
