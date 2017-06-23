@@ -17,7 +17,7 @@
       "client": [
         {
           "file": "test.txt",
-          "target": "-/"
+          "target": "/root"
         }
       ]
     },
