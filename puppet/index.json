@@ -16,8 +16,8 @@
     "assets": {
       "client": [
         {
-          "file": "test.txt",
-          "target": "/home/scrapbook/tutorial"
+          "file": "*",
+          "target": "/home/scrapbook/tutorial/code"
         }
       ]
     },

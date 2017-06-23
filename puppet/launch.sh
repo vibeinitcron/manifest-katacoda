@@ -6,5 +6,5 @@
 #sudo apt-get install puppetserver -y
 
 mkdir code
-docker run -itd --name puppet --hostname puppet -v ./code:/etc/puppetlabs/code/ puppet/puppetserver
+docker run -itd --name puppet --hostname puppet -v code:/etc/puppetlabs/code/ puppet/puppetserver
 docker exec -it puppet bash
