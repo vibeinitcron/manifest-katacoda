@@ -17,7 +17,7 @@
       "client": [
         {
           "file": "*",
-          "target": "/home/ubuntu"
+          "target": "/home/scrapbook/tutorial/"
         }
       ]
     },
