@@ -14,7 +14,7 @@
       "credits": ""
     },
     "assets": {
-      "host01": [
+      "client": [
         {
           "file": "test.txt",
           "target": "-/"
